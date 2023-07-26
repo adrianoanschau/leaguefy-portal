@@ -16,17 +16,17 @@ return [
         ],
         [
             'text'        => 'games',
-            'url'         => 'leaguefy/games',
+            'url'         => 'games',
             'icon'        => 'fas fa-fw fa-gamepad',
         ],
         [
             'text'        => 'teams',
-            'url'         => 'leaguefy/teams',
+            'url'         => 'teams',
             'icon'        => 'fas fa-fw fa-users',
         ],
         [
             'text'        => 'tournaments',
-            'url'         => 'leaguefy/tournaments',
+            'url'         => 'tournaments',
             'icon'        => 'fas fa-fw fa-trophy',
         ],
     ],
